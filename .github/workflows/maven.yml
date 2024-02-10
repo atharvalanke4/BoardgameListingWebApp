@@ -2,7 +2,7 @@ name: Build Maven Application on Self Hosted VM
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "develop" ]
 
 jobs:
   build:
